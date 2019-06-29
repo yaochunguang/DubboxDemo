@@ -12,4 +12,10 @@ public interface UserService {
      * @return
      */
     String getName();
+
+    /**
+     * 获取年龄
+     * @return
+     */
+    int getAge();
 }

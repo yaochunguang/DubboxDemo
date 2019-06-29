@@ -14,4 +14,9 @@ public class UserServiceImpl implements UserService {
     public String getName() {
         return "Hello World";
     }
+
+    @Override
+    public int getAge() {
+        return 18;
+    }
 }
