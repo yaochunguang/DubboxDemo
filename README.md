@@ -76,7 +76,7 @@ mv zoo_sample.cfg zoo.cfg
      ./zkServer.sh start
 输出以下内容表示启动成功
 <br />
-![](https://i.imgur.com/ZnsvqZ5.png)
+![](https://i.imgur.com/GdrlDwA.png)
 <br />
 关闭服务输入命令
 <br />
